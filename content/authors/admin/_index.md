@@ -3,11 +3,11 @@
 title: Zhaopin Chen 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhaopin
+last_name: Chen
 
 # Status emoji
 status:
@@ -20,42 +20,43 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Technion (Israel Institute of Technology)
+    url: https://phys.technion.ac.il/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zhaopin.chen@campus.technion.ac.il'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=AvZ8jMsAAAAJ&hl=zh-CN&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.researchgate.net/profile/Zhaopin-Chen
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Attosecond physics 
+  - Soliton
+  - Strong-field light-matter interaction
+  - Ultrafast electron microscopy
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Applied Physics
+    institution: Tel Aviv University
+    date_start: 2018-06-01
+    date_end: 2021-02-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
