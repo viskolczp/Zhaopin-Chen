@@ -35,9 +35,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My recent research has focused on the following areas:
+        
+        1.	High harmonic generation in quantum materials: I am investigating the influence of many-body effect, such as excitonic resonances on high-harmonic generation (HHG) in quantum materials, both experimentally and theoretically. This work includes studying how excitons impact the HHG process and the resulting attosecond time delays of the harmonics. Through high-harmonic spectroscopy, we aim to reveal coherent many-body effects in quantum materials.
+        
+        2.	Development of High-Repetition-Rate Isolated Attosecond Pulse Sources from solids: I am working on generating isolated attosecond pulses (IAPs) with high repetition rates for both experimental and theoretical applications. These pulses are crucial for precise pump-probe measurements in attosecond science. Our approach leverages an optical parametric chirped pulse amplification (OPCPA) system, achieving repetition rates of up to 1 MHz. This allows us to produce IAPs with unprecedented repetition rates, which are particularly advantageous for experiments requiring low single-shot signal rates. Additionally, I am developing advanced theoretical models, including the semiconductor Bloch equation (SBE) and time-dependent Schrödinger equation (TDSE), to understand the underlying physical processes.
+        
+        3.	High-Harmonic Generation Driven by Intense Non-Classical Quantum Light: I am exploring the physics of using intense quantum light as a pump for high-harmonic generation (HHG) in solids. This approach not only enables the generation of non-classical extreme ultraviolet (EUV) light but also extends the HHG cutoff compared to conventional coherent pumps. My work involves developing theoretical models, such as SBEs incorporating non-classical pumps, to understand and predict the behavior of HHG in this regime.
+        
+        4.	Nonlinear Phenomena in Quantum Systems: My research also delves into nonlinear phenomena across various quantum systems, primarily within the mean-field framework, but also including the effects of quantum phenomena such as spin-orbit coupling and beyond-mean-field corrections due to quantum fluctuations. I am particularly interested in nonlinear waves, vortices, and solitons in nonlinear optics.
+        
         
         Please reach out to collaborate 😃
     design:
