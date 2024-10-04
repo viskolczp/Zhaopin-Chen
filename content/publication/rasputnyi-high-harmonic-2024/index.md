@@ -2,7 +2,7 @@
 title: High-harmonic generation by a bright squeezed vacuum
 authors:
 - Andrei Rasputnyi
-- '**Zhaopin Chen**'
+- "**Zhaopin Chen**"
 - Oren Cohen
 - Ido Kaminer
 - Michael Krüger
