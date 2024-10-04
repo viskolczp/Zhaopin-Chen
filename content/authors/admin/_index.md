@@ -184,4 +184,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a postdoctoral researcher at the Technion, working under the supervision of Professor Michael Kruger. I completed my Master's and PhD at Tel Aviv University in 2018 and 2021, respectively, under the guidance of Professor Boris A. Malomed. My research spans both experimental and theoretical domains, with current interests including strong-field light-matter interactions, high-harmonics generation in solids, ultrafast electron microscopy, and nonlinear wave dynamics. To date, I have published more than 30 papers in leading international journals, including Nature Physics, Science Advances, Phys. Rev. Lett., and others. According to Google Scholar, my current h-index is 13, with over 800 citations. 
+
