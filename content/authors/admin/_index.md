@@ -142,13 +142,13 @@ education:
 #         percent: 80
 #         icon: camera
 
-# languages:
-#   - name: Chinese
-#     percent: 100
-#   - name: English
-#     percent: 50
-#   - name: Cantonese
-#     percent: 50
+languages:
+  - name: Chinese
+    percent: 100
+  - name: English
+    percent: 50
+  - name: Cantonese
+    percent: 50
 
 # # Awards.
 # #   Add/remove as many awards below as you like.
